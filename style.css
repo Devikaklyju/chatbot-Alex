@@ -1,0 +1,22 @@
+#chatLog{
+    text-align: center;
+}
+
+.userbox{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    padding: 10rem;
+}
+body{
+    background-image: url("pa3.gif");
+   background-size: auto;
+    color: yellow;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
